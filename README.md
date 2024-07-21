@@ -13,4 +13,8 @@ A command-line Fantasy Football game where users can create teams, draft players
 ## Installation
 1. Clone the repository:
    ```sh
+<<<<<<< HEAD
    git clone https://github.com/jperez629/python_fantasy_football.git
+=======
+   git clone https://github.com/jperez629/python_fantasy_football.git
+>>>>>>> a0c431f351fbc21f6e2fbfe52f64d935f5fb61e7
